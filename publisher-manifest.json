@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "0b997c6ca47886a393716d37",
+  "owner": "ypshgcvcb",
+  "repo": "ypshgcvcb.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "be28290b970806353100ccb6",
+      "a": "V2Club",
+      "b": "官方发布页",
+      "entity": "V2Club",
+      "brand": "V2Club",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0553f94c47a7d85b9d1657026468e32ac4251a26581b1a9130148bb5f6e576f7",
+      "content": {
+        "primary_entity": "V2Club",
+        "keyword1": "V2Club",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，V2Club 提供三档订阅方案，覆盖个人轻量使用、流媒体与游戏加速以及多设备团队场景。基础版每月 100GB 流量并支持 3 台设备，旗舰版每月 300GB 并支持 5 台设备，团队版每月 1000GB 并支持 20 台设备。选择客户端后依照订阅文档完成导入，即可在电脑、手机与路由器上按需切换节点。",
+          "AI_HERO_SUBTITLE": "多设备订阅与节点选择",
+          "AI_HERO_INTRO": "V2Club 面向需要稳定海外网络加速的用户，提供按流量与设备数划分的订阅套餐。基础版适合单人或轻量浏览，旗舰版增加流媒体解锁与游戏优化线路，团队版满足多设备高带宽需求。",
+          "AI_VISUAL_TITLE": "V2Club 订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量阶梯",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "客户端按设备类型选择",
+          "AI_FEATURES_TITLE": "选择适合的使用方式",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度评估套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖手机、电脑和平板。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期使用。",
+          "AI_FEATURE_TITLE_3": "按客户端配订阅",
+          "AI_FEATURE_TEXT_3": "根据 Windows、macOS、Android、iOS 等设备类型，查阅对应导入说明。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线；团队版 ¥85/月含 1000GB、20 台设备与 VIP 节点。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统使用不同客户端，先确认设备类型，再按订阅文档导入节点配置。Windows 可选用主流代理客户端，macOS 与 iOS 使用对应应用，Android 通过 APK 安装，路由器场景需支持订阅导入的固件。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量，从基础版、旗舰版或团队版中确定订阅方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统版本是否满足客户端运行条件，并准备订阅链接。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "打开所选客户端，在订阅或配置导入处粘贴链接，保存后刷新节点列表。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2Club 基础版能同时几台设备在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合使用。超出设备数时需升级到旗舰版或团队版。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于支付十个月获得十二个月使用时长。",
+          "AI_FAQ_QUESTION_3": "怎么把订阅导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端找到订阅或配置导入入口，粘贴订阅链接后保存并更新节点列表，具体位置参考所用客户端文档。",
+          "AI_FAQ_QUESTION_4": "不同系统应该选哪个客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 和 macOS 使用桌面客户端，Android 安装 APK，iOS 从 App Store 获取对应应用，路由器需刷入支持订阅导入的固件。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 高带宽节点与定制路由，适合小团队协作与多终端办公。",
+          "AI_CLOSING_TITLE": "开始选择 V2Club 套餐",
+          "AI_CLOSING_TEXT": "确认设备数量与流量需求后，查看套餐对比并完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c2783d8a7c0dad1bc0abf03685b6704d3b20d67bd77d934a8be1e9e1c20f6676",
+    "sitemap.xml": "2533f92457e1aba64fff4e1470b97842a8f7ca19afa2d34fd618451b886514e8",
+    "robots.txt": "8b8d235b951b3b3e773357fe0b1e20dd09572fd2545d0fc6ef90d6b289cdc481",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "8a02836b0aed93f3f10ec8d5fbe014b4534a4210703ea5163b97d90b1393c557"
+}
